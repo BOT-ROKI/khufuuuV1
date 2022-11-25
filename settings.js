@@ -55,17 +55,17 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.vcardowner = ['201121968769'] //ur owner number
-global.ownername = "𝐾𝐻𝐻𝐹𝑈" //ur owner name
+global.ownername = "Roki" //ur owner name
 global.ytname = "YT: khufu" //ur yt chanel name
 global.socialm = "o" //ur github or insta name
 global.location = "Egypt" //ur location
 
 //bot bomdy 
-global.owner = ['201121968769']
+global.owner = ['212707756337']
 global.ownertag = '201121968769' //ur tag number
 
 global.botname = 'ᴹᴿ᭄ Bot Whatsapp ×፝֟͜×' //ur bot name
-global.linkz = "https://youtube.com/channel/UCaWoQPfLiIY4dDp3WeWm7oA" //your theme url which will be displayed on whatsapp
+عالمي . linkz  =  "https://youtube.com/channel/UCaWoQPfLiIY4dDp3WeWm7oA"  // عنوان URL للموضوع الذي سيتم عرضه على whatsapp
 global.websitex = "https://youtube.com/channel/UCaWoQPfLiIY4dDp3WeWm7oA" //ur website to be displayed
 global.botscript = 'https://youtube.com/channel/UCB3Z3phhszGj8FBdaJmIdJQ' //script link
 global.reactmoji = "💗" //ur menu react emoji
